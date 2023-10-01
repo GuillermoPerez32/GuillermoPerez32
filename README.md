@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/luis-guillermo-p%c3%a9rez-rodr%c3%adguez-63520822b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luis-guillermo-p%c3%a9rez-rodr%c3%adguez-63520822b" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/guilleperez32/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guilleperez32" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
