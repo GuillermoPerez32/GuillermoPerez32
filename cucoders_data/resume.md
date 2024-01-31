@@ -1,4 +1,4 @@
-# 💼 Resume
+# Resume
 
 <aside>
 👋  I'm Luis Guillermo Pérez Rodríguez, a software developer with over 3 years of experience and a solid background in Computer Science Engineering.
@@ -13,7 +13,7 @@
 
 [👾 github.com/GuillermoPerez32](https://github.com/GuillermoPerez32)
 
-# 💻 Experience
+# Experience
 
 ### Frontend Developer
 
@@ -35,14 +35,15 @@
 
 ### Backend Developer
 
-Animal welfare in Cuba (BAC)*, Havana, Cuba – (Jan 2020 - Aug 2022)*
+**Animal welfare in Cuba (BAC)**, Havana, Cuba – (Jan 2020 - Aug 2022)
 
-- Developed and executed functional testing plans for Bolloré Ipaki, a shipping container terminal and logistics administration web app.
-- Evaluated new client requirements, defined use cases and maintained a local testing environment.
+- Developed RESTful APIs using Django and implemented database models for efficient data management.
+- Collaborated with a team of developers to design and implement backend functionalities for a web application.
+- Conducted code reviews and implemented optimizations to improve the performance and scalability of the system.
 
 ---
 
-# 📕 Education
+# Education
 
 ### **Bachelor's Degree in Computer Science**
 
