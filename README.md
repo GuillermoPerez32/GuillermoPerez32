@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on **Mauer Principles**
 
-- 🌱 I’m currently working with **ReactJs**
-
 - 📫 How to reach me **luisguillermo.rodriguez32@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
